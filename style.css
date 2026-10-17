@@ -1,0 +1,13 @@
+fieldset{
+    width: 300px;
+    border: 15px;
+    border-radius: 20px;
+    border-color: blue;
+    background: radial-gradient(pink aqua);
+    background-color: aquamarine;
+}
+table{
+    border-radius: 15px;
+  
+}
+
